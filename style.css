@@ -1,0 +1,6 @@
+body{font-family:Arial,sans-serif;margin:0;background:#0f3b2e;color:white}
+header,footer{padding:20px;background:#08271e;text-align:center}
+.hero{padding:60px 20px;text-align:center}
+.cards{display:flex;gap:15px;flex-wrap:wrap;padding:20px}
+.card{background:white;color:#0f3b2e;padding:20px;border-radius:10px;flex:1;min-width:180px}
+h1,h2{color:#d4af37}
